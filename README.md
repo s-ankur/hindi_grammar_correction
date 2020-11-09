@@ -3,8 +3,13 @@ This repository includes the code and data used in our paper titled "Generating 
 Hindi"
 
 A. Wikiextract --  Create a dataset of artificial Hindi errors
+
 B. Wikiedits -- Extract a dataset of real hindi errors from Wikipedia
+
 C. MLConvGEC -- multilayer convolutional encoder decoder Model
+
 D. Tensor2Tensor -- Base Transformer Model
+
 E. fairseq-gec -- Copy Augmented Transformer Model
+
 F. ERRANT -- Error classification for Hindi as well as model evaluation
