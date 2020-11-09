@@ -2,7 +2,7 @@
 This repository includes the code and data used in our paper titled "Generating Inflectional Errors for Grammatical Error Correction in
 Hindi"
 
-A. Wikiextract --  Create a dataset of artificial Hindi errors
+A. Wikiextract --  Create a dataset of artificial Hindi errors (https://github.com/s-ankur/wikiextract)
 
 B. Wikiedits -- Extract a dataset of real hindi errors from Wikipedia
 
