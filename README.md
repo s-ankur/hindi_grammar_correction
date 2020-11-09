@@ -10,6 +10,6 @@ C. MLConvGEC -- multilayer convolutional encoder decoder Model
 
 D. Tensor2Tensor -- Base Transformer Model
 
-E. fairseq-gec -- Copy Augmented Transformer Model
+E. fairseq-gec -- Copy Augmented Transformer Model (https://github.com/s-ankur/fairseq-gec)
 
 F. ERRANT -- Error classification for Hindi as well as model evaluation (https://github.com/s-ankur/errant)
