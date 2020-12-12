@@ -1,6 +1,6 @@
 # Grammar Correction For Hindi Using Neural Network (Deep Learning)
-This repository includes the code and data used in our paper titled "Generating Inflectional Errors for Grammatical Error Correction in
-Hindi". If you are interested in using our work, please cite 
+This repository includes the code and data used in our paper titled ["Generating Inflectional Errors for Grammatical Error Correction in
+Hindi"](https://www.aclweb.org/anthology/2020.aacl-srw.24.pdf). If you are interested in using our work, please cite 
 ```
 @inproceedings{sonawane-etal-2020-generating,
     title = "Generating Inflectional Errors for Grammatical Error Correction in {H}indi",
