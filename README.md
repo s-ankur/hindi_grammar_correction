@@ -6,7 +6,7 @@ A. Wikiextract --  Create a dataset of artificial Hindi errors (https://github.c
 
 B. Wikiedits -- Extract a dataset of real hindi errors from Wikipedia (https://github.com/s-ankur/wikiedits/)
 
-Data: [edits file](https://drive.google.com/file/d/11m135siKMcxL8p1uQbkdFaqUTV1qAnYv/view?usp=sharing)
+Data: [edits file](https://drive.google.com/file/d/1LPBA0GG82gS_H-e4Sa6ecjknLuK0rxj7/view?usp=sharing)
 
 C. MLConvGEC -- multilayer convolutional encoder decoder Model
 
