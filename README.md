@@ -34,4 +34,4 @@ E. fairseq-gec -- Copy Augmented Transformer Model  ([IPython Notebook](https://
 
 F. ERRANT -- Error classification for Hindi as well as model evaluation ([IPython Notebook](https://github.com/s-ankur/hindi_grammar_correction/blob/main/Colab%20Notebooks/https_github.com_s-ankur_errant.ipynb) | [Repository](https://github.com/s-ankur/errant))
 
-Data: [Test Data segregated according to error classes](https://drive.google.com/drive/folders/1QS1wxoLMjEazxq1_DTbMgUDxLnpazTjU?usp=sharing) (Note .trg and .tgt files are identical)
+Data: Test Data segregated according to error classes [src, trg and m2 files](https://drive.google.com/drive/folders/1QS1wxoLMjEazxq1_DTbMgUDxLnpazTjU?usp=sharing) (Note .trg and .tgt files are identical)
