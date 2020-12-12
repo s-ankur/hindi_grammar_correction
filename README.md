@@ -20,9 +20,11 @@ Hindi"](https://www.aclweb.org/anthology/2020.aacl-srw.24.pdf). If you are inter
 # Code and Data
 A. Wikiextract --  Create a dataset of artificial Hindi errors ([IPython Notebook](https://github.com/s-ankur/hindi_grammar_correction/blob/main/Colab%20Notebooks/https_github.com_s-ankur_wikiextract.ipynb) | [Repository](https://github.com/s-ankur/wikiextract))
 
+Data:  Artificial Dataset used as Train Dataset ([src file](https://drive.google.com/file/d/1WAPmxT10Li2pzk0iEggzWKttXgUNps5I/view?usp=sharing) | [trg file](https://drive.google.com/file/d/17rx_5M3zw0QMkCWm7YFpeJLsCkWbxV9d/view?usp=sharing))
+
 B. Wikiedits -- Extract a dataset of real hindi errors from Wikipedia ([IPython Notebook](https://github.com/s-ankur/hindi_grammar_correction/blob/main/Colab%20Notebooks/https_github.com_s-ankur_wikiedits.ipynb) | [Repository](https://github.com/s-ankur/wikiedits/))
 
-Data: [Test edits file -- Natural Dataset](https://drive.google.com/file/d/1LPBA0GG82gS_H-e4Sa6ecjknLuK0rxj7/view?usp=sharing)
+Data: Natural Dataset used as Test Dataset ([edits file](https://drive.google.com/file/d/1LPBA0GG82gS_H-e4Sa6ecjknLuK0rxj7/view?usp=sharing) | [src file](https://drive.google.com/file/d/1yzvHVUZ_rWKtBGPKdUrtolgohoZeTBri/view?usp=sharing) | [trg file](https://drive.google.com/file/d/1vwJpb4_czI4iNN9qczp5p6A1c_3Hm1eR/view?usp=sharing))
 
 C. MLConvGEC -- multilayer convolutional encoder decoder Model ([IPython Notebook](https://github.com/s-ankur/hindi_grammar_correction/blob/main/Colab%20Notebooks/https_github.com_sujeetlearner_mlconvgec.ipynb))
 
