@@ -6,7 +6,7 @@ A. Wikiextract --  Create a dataset of artificial Hindi errors ([IPython Noteboo
 
 B. Wikiedits -- Extract a dataset of real hindi errors from Wikipedia ([IPython Notebook](https://github.com/s-ankur/hindi_grammar_correction/blob/main/Colab%20Notebooks/https_github.com_s-ankur_wikiedits.ipynb) | [Repository](https://github.com/s-ankur/wikiedits/))
 
-Data: [edits file](https://drive.google.com/file/d/1LPBA0GG82gS_H-e4Sa6ecjknLuK0rxj7/view?usp=sharing)
+Data: [Test edits file -- Natural Dataset](https://drive.google.com/file/d/1LPBA0GG82gS_H-e4Sa6ecjknLuK0rxj7/view?usp=sharing)
 
 C. MLConvGEC -- multilayer convolutional encoder decoder Model ([IPython Notebook](https://github.com/s-ankur/hindi_grammar_correction/blob/main/Colab%20Notebooks/https_github.com_sujeetlearner_mlconvgec.ipynb))
 
@@ -15,3 +15,5 @@ D. Tensor2Tensor -- Base Transformer Model ([IPython Notebook](https://github.co
 E. fairseq-gec -- Copy Augmented Transformer Model  ([IPython Notebook](https://github.com/s-ankur/hindi_grammar_correction/blob/main/Colab%20Notebooks/https_github.com_s-ankur_fairseq-gec.ipynb) | [Repository](https://github.com/s-ankur/fairseq-gec))
 
 F. ERRANT -- Error classification for Hindi as well as model evaluation ([IPython Notebook](https://github.com/s-ankur/hindi_grammar_correction/blob/main/Colab%20Notebooks/https_github.com_s-ankur_errant.ipynb) | [Repository](https://github.com/s-ankur/errant))
+
+Data: [Test Data segregated according to error classes](https://drive.google.com/drive/folders/1QS1wxoLMjEazxq1_DTbMgUDxLnpazTjU?usp=sharing) (Note .trg and .tgt files are identical)
